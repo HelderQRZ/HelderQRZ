@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👨🏾‍💻 Helder Queiroz | Desenvolvedor Java em Ascensão 🚀
 
-<!--
-**HelderQRZ/HelderQRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏾 Olá! Meu nome é **Helder** e estou trilhando o caminho para me tornar um desenvolvedor Java.
 
-Here are some ideas to get you started:
+🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Unicesumar**, com previsão de conclusão em **2027.1**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia, resolver problemas e transformar ideias em código. A cada novo desafio, busco aprender algo novo e evoluir como desenvolvedor.
+
+---
+
+## 💡 Tecnologias que estou aprendendo
+
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
+- ☕ **Java**
+- 🧑‍💻 **Git**
+- 🛠️ **GitHub**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelderQRZ&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelderQRZ&layout=compact&theme=tokyonight"/>
+</div>
+
+
+---
+
+## 📫 Onde me encontrar
+
+- LinkedIn: [Helder Queiroz](https://www.linkedin.com/in/helder-queiroz-dev/)
+- E-mail: helder.queiroz1989@gmail.com
+- Portfólio (em breve)
+
+---
+
+🌱 Em constante evolução — a cada linha de código, dou um passo a mais em direção ao meu objetivo de me tornar um especialista em Java!
+
+---
+
+✨ Obrigado por visitar meu perfil!
+
