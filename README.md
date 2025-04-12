@@ -17,8 +17,8 @@ Sou apaixonado por tecnologia, resolver problemas e transformar ideias em códig
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelderQRZ&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelderQRZ&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelderQRZ&show_icons=true&theme=darcula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelderQRZ&layout=compact&theme=darcula"/>
 </div>
 
 
