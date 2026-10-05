@@ -2,7 +2,7 @@
 
 👋🏾 Olá! Meu nome é **Helder** e estou trilhando o caminho para me tornar um desenvolvedor Java.
 
-🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Unicesumar**, com previsão de conclusão em **2026.2**.
+🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Unicesumar**, com previsão de conclusão em **2027.2**.
 
 Sou apaixonado por tecnologia, resolver problemas e transformar ideias em código. A cada novo desafio, busco aprender algo novo e evoluir como desenvolvedor.
 
